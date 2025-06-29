@@ -4,7 +4,7 @@
 
 ## Preface
 
-This project explores and compares trading strategies based on two popular technical indicators: **MACD** and **Bollinger Bands**. The analysis includes three distinct strategies — two using the indicators independently, and a third that combines both to enhance signal reliability. The strategies are tested across historical stock data to analyze momentum-based entry and exit points. A detailed review of return performance is presented toward the end.
+This project explores and compares trading strategies based on two popular technical indicators: **MACD** and **Bollinger Bands**. The analysis includes three distinct strategies  two using the indicators independently and a third that combines both to enhance signal reliability. The strategies are tested across historical stock data to analyze momentum-based entry and exit points. A detailed review of return performance is presented toward the end.
 
 ---
 
