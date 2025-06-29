@@ -10,4 +10,4 @@ This project explores and compares trading strategies based on two popular techn
 
 ## Results
 
-The combined strategy, which uses both MACD and Bollinger Bands for signal confirmation, significantly outperforms the individual strategies in terms of returns. It is observed that these momentum-based strategies perform well across most global markets, though they may be less effective in markets like China, which are less correlated with global trends. The strategies discussed are most effective over longer time frames — ideally periods of **2 years or more** — where momentum can develop and persist.
+The combined strategy, which uses both MACD and Bollinger Bands for signal confirmation, significantly outperforms the individual strategies in terms of returns. It is observed that these momentum-based strategies perform well across most global markets, though they may be less effective in markets like China, which are less correlated with global trends. The strategies discussed are most effective over longer time frames — ideally periods of **2 years or more** —- where momentum can develop and persist.
